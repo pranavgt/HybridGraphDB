@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.hybridgraphdb_env/
+
+# PyCharm
+.idea/
+
+# ArcadeDB
+arcadedb/
+*.log
+*.db
+
+# Misc
+*.DS_Store
+*.bak
+*.swp
+*.env

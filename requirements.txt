@@ -1,0 +1,9 @@
+hnswlib==0.8.0
+fastapi==0.115.0
+uvicorn==0.30.6
+arcadedb==1.0.0
+sentence-transformers==3.0.1
+numpy==1.26.4
+streamlit==1.39.0
+python-jose==3.3.0
+requests==2.32.3
