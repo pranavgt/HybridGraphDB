@@ -1,5 +1,3 @@
-<h1 align="center">HybridGraphDB: Multi-Model Query Routing with HNSW Acceleration</h1>
-
 <div align="center">
   <img src="assets/hybridgraphdb.png" alt="HybridGraphDB Architecture Diagram" width="80%"/>
 </div>
