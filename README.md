@@ -11,7 +11,7 @@
     <td valign="top" width="60%">
 
 ### 🧠 Overview
-HybridGraphDB demonstrates how Hierarchical Navigable Small World (HNSW) graphs can optimize query routing across multi-model databases (SQL, graph, document, vector).  
+HybridGraphDB demonstrates how Hierarchical Navigable Small World (HNSW) graphs can optimize query routing across multi-model databases (SQL, graph, document, vector etc.).  
 It uses HNSW for fast approximate nearest neighbor search to route queries efficiently, minimizing overhead and enhancing privacy for AI-driven applications.
 
 ### 🚀 Features
